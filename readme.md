@@ -1,4 +1,7 @@
+![Image](https://dl.dropboxusercontent.com/u/941957/description.jpg)
+
 # SlotBot
+
 
 ## Introduction
 
