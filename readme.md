@@ -1,7 +1,7 @@
 # SlotBot
 
 
-![Image](https://dl.dropboxusercontent.com/u/941957/description.jpg)
+![Image](https://dl.dropboxusercontent.com/u/941957/description.png)
 
 
 ## Introduction
