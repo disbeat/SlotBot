@@ -1,35 +1,41 @@
-# Project name
+# SlotBot
 
 ## Introduction
 
-(Write a short project intro here, just 10/20 words)
+Remember the thril of a slot car race? How pressing those shitty controllers made the slot car fly over the track? We took it to the next level!
+
 
 ## Description
 
-Write a description here including: 
+We hacked the FastLane track race and created a bot for controling one of the slot cars. Can you beat the bot?
 
- * What does it do
- * What's the audience 
- * What technology will you use 
+We also upgraded the controlers, so now you can use a microfone and make a roar to make the car accelerate! (other controler options will be tried)
+
+Do not forget to train! Our online simulator allows you not only to train the track but also to code the bot! Implement a better bot than ours and we will have a bot one-on-one tryouts! Will your bot rise to this challenge?
+
+* Technology disclaimer:
+
+We are technology agnostics! We belive in choosing the best tool for the job, but it surely includes an Arduino for the FastLane control and HTML5, Javascript, CSS3 for the online simulator. If you have suggestions for additional buzzwords, please let us know! :)
+
 
 ## Team
 
- * Name 1 (with Pixels Camp profile URL) 
- * Name 2 (with Pixels Camp profile URL)
- * ...
+ * Marco Simões (https://pixels.camp/disbeat) 
+ * Fábio Pedrosa (https://pixels.camp/fabiopedrosa)
+ * Alexandre Martins ()
+ * Nuno Martins
+ * João Sardinha
+
+We have a very good team structure, with a well defined chain of responsibilities as described in the following figure
+![Image](https://dl.dropboxusercontent.com/u/941957/team.jpeg)
+
+
 
 ## Code repository
 
-This is not required, but if you want, you can share your project repo here 
+https://github.com/disbeat/SlotBot
 
 ## URL 
 
-In case you have something online to show, please, share here your URL 
+TODO: The simulator url will go here
 
-## Other information
-
-In case you think there's more information about the project we should be aware of
-
-See this [example][1]
-
-[1]: nobull_bot.md
