@@ -1,7 +1,7 @@
 # SlotBot
 
 
-![Image](https://dl.dropboxusercontent.com/u/941957/description.png)
+![Image](https://dl.dropboxusercontent.com/u/941957/description.png =800x)
 
 
 ## Introduction
@@ -33,7 +33,7 @@ We are technology agnostics! We believe in choosing the best tool for the job, b
 
 
 We have a very good team structure, with a well defined chain of responsibilities as described in the following figure
-![Image](https://dl.dropboxusercontent.com/u/941957/team.jpeg)
+![Image](https://dl.dropboxusercontent.com/u/941957/team.jpeg =200x)
 
 
 ## Code repository
