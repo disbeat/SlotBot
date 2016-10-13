@@ -1,0 +1,24 @@
+{
+  "name": "pixelscamp",
+  "description": "Slot Car Bot",
+  "main": "js/app.js",
+  "authors": [
+    "João Sardinha <johnsardine@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-strings": "normalize#~1.1.0",
+    "normalize-css": "~5.0.0",
+    "chart.js": "~2.3.0"
+  }
+}

@@ -1,0 +1,89 @@
+body {
+  background: #1B1721;
+  color: white;
+}
+
+svg {
+  border: 0px solid #eee;
+  display: block;
+  margin: 1em auto;
+}
+
+p {
+  color: #aaa;
+  text-align: center;
+  margin: 2em 0;
+}
+
+progress {
+    width: 100%;
+}
+
+#throttle {
+    width: 30px;
+    writing-mode: bt-lr;
+    -webkit-appearance: slider-vertical;
+    height: 100px;
+}
+
+#RedCarObject {
+    /* transform: translate3d(-5px, -5px, 0); */
+}
+
+
+.row {
+    overflow: hidden;
+}
+
+.main,
+.sidebar {
+    float: left;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+.main {
+    width: 70%;
+}
+.sidebar {
+    width: 30%;
+}
+
+.row-presentation {}
+.row-presentation .main {
+    width: 50%;
+}
+.row-presentation .sidebar {
+    width: 50%;
+}
+
+/* Data Presentation */
+.current-lap-time {
+    font-size: 40vh;
+}
+
+.laptimes {
+    width: 100%;
+    border: 1px solid #444;
+    color: #fff;
+}
+.laptimes thead {
+    text-align: left;
+}
+.laptimes th,
+.laptimes td {
+    padding: 4px 10px;
+}
+.laptimes tbody {}
+
+
+
+
+
+
+
+
+
+
+
+
+/* RANGE */

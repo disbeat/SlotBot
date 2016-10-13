@@ -1,0 +1,27 @@
+
+
+
+// Board								Digital Pins Usable For Interrupts
+// Uno, Nano, Mini, other 328-based		2, 3
+
+const byte LAP_interrupt_pin = 2;
+const byte OoT_interrupt_pin = 3;
+
+void setup() {
+  pinMode(LAP_interrupt_pin, INPUT_PULLUP);
+  pinMode(OoT_interrupt_pin, INPUT_PULLUP);
+  attachInterrupt(digitalPinToInterrupt(LAP_interrupt_pin), LAP_interrupt, FALLING);
+  attachInterrupt(digitalPinToInterrupt(OoT_interrupt_pin), OoT_interrupt, FALLING);
+}
+
+void loop() {
+  digitalWrite(ledPin, state);
+}
+
+void LAP_interrupt() {
+   Serial.write('l');
+}
+
+void OoT_interrupt() {
+  Serial.write('o');
+}

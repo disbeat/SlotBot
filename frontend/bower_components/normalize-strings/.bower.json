@@ -1,0 +1,31 @@
+{
+  "name": "normalize-strings",
+  "main": "normalize.js",
+  "version": "1.1.0",
+  "homepage": "https://github.com/tehsis/normalize",
+  "authors": [
+    "Pablo Terradillos <tehsis@gmail.com>"
+  ],
+  "description": "Normalizes string with special characters.",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "utf-8",
+    "unicode",
+    "strings"
+  ],
+  "license": "MIT",
+  "_release": "1.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.0",
+    "commit": "af73ebf482a05fb061235cb1d44fcd0aa9003372"
+  },
+  "_source": "https://github.com/tehsis/normalize.git",
+  "_target": "~1.1.0",
+  "_originalSource": "normalize",
+  "_direct": true
+}
